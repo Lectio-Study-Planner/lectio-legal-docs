@@ -1,7 +1,9 @@
 # Lectio legal documents
 
-The Impressum (legal notice, DDG) and Datenschutzerklärung (privacy policy,
-DSGVO/GDPR) for the Lectio semester planner, in German and English. This repo
+The Impressum (legal notice, DDG), Datenschutzerklärung (privacy policy,
+DSGVO/GDPR) and Nutzungsbedingungen (terms of use) for the Lectio semester
+planner, in German and English. The German terms of use are the binding
+version. This repo
 is the only copy: the app links here from Settings ▸ About, and the privacy
 policy URL in App Store Connect points here too.
 
@@ -13,6 +15,7 @@ GitHub Pages serves `main` from the repo root:
 |---|---|---|
 | Impressum | [impressum.de.html](https://lectio-study-planner.github.io/lectio-legal-docs/impressum.de.html) | [impressum.en.html](https://lectio-study-planner.github.io/lectio-legal-docs/impressum.en.html) |
 | Datenschutzerklärung | [datenschutzerklaerung.de.html](https://lectio-study-planner.github.io/lectio-legal-docs/datenschutzerklaerung.de.html) | [datenschutzerklaerung.en.html](https://lectio-study-planner.github.io/lectio-legal-docs/datenschutzerklaerung.en.html) |
+| Nutzungsbedingungen | [nutzungsbedingungen.de.html](https://lectio-study-planner.github.io/lectio-legal-docs/nutzungsbedingungen.de.html) | [nutzungsbedingungen.en.html](https://lectio-study-planner.github.io/lectio-legal-docs/nutzungsbedingungen.en.html) |
 
 The app opens the English pages. Their addresses live in one place in the app
 repo, `Lectio/Legal/LegalLinks.swift`. If a file is renamed or the site moves,
